@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Olli-849
-- 👀 I’m interested in Gaming, 3D, Animation, character design, concept design, world building, Japanese language & culture
+- 👋 Hi, I’m Olli-849
+- 👀 I’m interested in Gaming, 3D, Animation, character design, concept design, world building, japanese language & culture
 - 🌱 I’m currently learning Python, Java and SQL
 - 💞️ I’m looking to collaborate on Game Design
 - 📫 How to reach me: PN
